@@ -1,0 +1,1 @@
+export { generateHomyo } from "./homyo";
